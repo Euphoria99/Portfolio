@@ -68,7 +68,7 @@ const userData = {
     "https://docs.google.com/document/d/1Y9ZcB5fDNv9ewIeWDhtHizWo6EIxEu8_6a5mJTh9dho/edit?usp=sharing",
   socialLinks: {
     instagram: "https://www.instagram.com/pavanbhat_99/",
-    twitter: "https://twitter.com/iampavan4u",
+    twitter: "https://twitter.com/pavanbhat_99",
     linkedin: "https://www.linkedin.com/in/pavan-bhat-7544781aa/",
     github: "https://github.com/Euphoria99",
     facebook: "https://www.facebook.com/pavan.bhat.906/",
