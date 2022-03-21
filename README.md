@@ -13,7 +13,7 @@ The website is built using the following tech stack and deployed on [Vercel](htt
 
 # Usage
 
-- Clone the repository using `git clone `
+- Clone the repository using `git clone https://github.com/Euphoria99/Portfolio `
 - Install all the modules by using `npm i` or `npm install` or `yarn`
 - Run the local development server by using `npm run dev` or `yarn dev`
 - Make the required edits and deploy to YOUR GitHub repo for CI/CD.
